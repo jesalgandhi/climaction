@@ -1,1 +1,3 @@
-<img src="Climaction_Banner.png" alt="Climaction" width="500"/>
+<p align="center">
+  <img src="Climaction_Banner.png" width="500"/>
+</p>
